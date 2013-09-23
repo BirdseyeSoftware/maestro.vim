@@ -19,8 +19,8 @@ Pushes the contents your CSS file to the Browser through Maestro.
 `:MaestroCssAutoPush`
 
 Enables automatic content pushes of your CSS file to the Browser through
-Maestro. This pushes the CSS contents on 2 different events, CursorHoldI and
-InsertLeave
+Maestro. This pushes the CSS contents on 2 different autocommand events, 
+`CursorHoldI` and `InsertLeave`
 
 `:MaestroDisableCssAutoPush`
 
